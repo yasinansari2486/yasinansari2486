@@ -15,6 +15,6 @@
 
 <p><img style="margin-left:auto;margin-right:auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinansari2486&show_icons=true&locale=en&layout=compact" alt="yasinansari2486" /></p>
 
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=yasinansari2486&show_icons=true&locale=en&layout=compact](https://github-readme-activity-graph.vercel.app/graph?username=yasinansari2486&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)https://github-readme-activity-graph.vercel.app/graph?username=yasinansari2486&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="yasinansari2486" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yasinansari2486&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="yasinansari2486" /></p>
 
 
